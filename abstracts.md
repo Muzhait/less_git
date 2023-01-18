@@ -99,7 +99,7 @@
 
 * git clone ссылка - удаленный репозиторий с сайта гитхаб появится на локальном ПК
 
-* git remote add origin https://github.com/Muzhait/less_git.git - связывание локального с удаленным репозиторием
+* git remote add origin ссылка на гитхаб - связывание локального с удаленным репозиторием
 
 * git branch -M main - указываем какая ветка основная
 
@@ -114,7 +114,7 @@
 
 * Для загрузки локального репозитория на гитхаб вводим следующие команды последовательно
 
-1. git remote add origin https://github.com/Muzhait/less_git.git 
+1. git remote add origin ссылка с гитхаб
 
 2. git branch -M main
 
